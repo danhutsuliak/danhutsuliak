@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danhutsuliak
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding, development
 - 🌱 I’m currently learning React
 
 <!---
