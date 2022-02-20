@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @danhutsuliak
 - 👀 I’m interested in coding, development
-- 🌱 I’m currently learning React
 
 <!---
 danhutsuliak/danhutsuliak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
